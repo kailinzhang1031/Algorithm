@@ -7,9 +7,9 @@
 
 ### 题目分析： ###
 对于一个序列S = S(a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, …, a<sub>n</sub>)，假设其逆序对有<a<sub>1</sub> , b<sub>1></sub>，<a<sub>2</sub> b<sub>2</sub>>，<a<sub>3</sub>, 
-b<sub>3</sub>>，…，<a<sub>k</sub>, b<sub>k</sub>>
+b<sub>3</sub>>，…，<a<sub>k</sub>, b<sub>k</sub>>，
 
-其中对于任何一个逆序对<a<sub>i</sub>, b<sub>i</sub>>，满足a<sub>i</sub> > b<sub>i</sub>
+其中对于任何一个逆序对<a<sub>i</sub>, b<sub>i</sub>>，满足a<sub>i</sub> > b<sub>i</sub>。
 
 我们先对所有的逆序对进行排序，排序后的逆序对满足以下关系：
 
