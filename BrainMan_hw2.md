@@ -1,4 +1,4 @@
-# BrainMan #
+# BrainMan(hw2, POJ1804) #
 
 ## 关键知识点： Greedy, Merge Sort ##
 
