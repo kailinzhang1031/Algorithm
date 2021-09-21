@@ -13,7 +13,7 @@ b<sub>3</sub>>，…，<a<sub>k</sub>, b<sub>k</sub>>
 
 我们先对所有的逆序对进行排序，排序后的逆序对满足以下关系：
 
-按照a<sub>j</sub>降序排序，当a<sub>j</sub>相等时，按b<sub>j</sub>升序排序
+按照a<sub>j</sub>降序排序，当a<sub>j</sub>相等时，按b<sub>j</sub>升序排序，
 
 按照a<sub>j</sub>降序排序的目的是，先尽可能让较大的元素进行交换，并排到序列S的后面，
 
