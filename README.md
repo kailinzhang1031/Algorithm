@@ -1,2 +1,2 @@
 # Algorithm
-Process of learning algorithm,  realized by C/C++/Python.
+Process of learning algorithm,  based on Python/Java.
